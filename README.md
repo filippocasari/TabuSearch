@@ -2,5 +2,6 @@
 
 Problem: TSP
 
-<img src="(https://www.researchgate.net/publication/226303975/figure/fig6/AS:669965959053319@1536743740940/Template-of-a-short-term-memory-tabu-search-heuristic-for-minimization.png" alt="Alt Text"/>
+![Alt Text](https://www.researchgate.net/profile/Gexiang-Zhang/publication/266480950/figure/fig5/AS:392194872627208@1470517952853/Pseudocode-algorithm-for-tabu-search.png)
+
 
